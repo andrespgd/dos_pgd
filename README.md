@@ -19,3 +19,8 @@ Compare 2 binary files:
 ```
 FC /B file1 file2
 ```
+
+To find out where an executable is:
+```
+where executable.exe
+```
